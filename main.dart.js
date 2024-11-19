@@ -37296,7 +37296,7 @@ if(j.length!==0)k+="- Catering Number: "+j+"\n"
 if(q.z)k+="- GPU\n"
 if(q.Q)k+="- Lavatory dump\n"
 if(q.as)k+="- ICE bag\n"
-if(q.at)k+="- Vaccum Cleaner\n"
+if(q.at)k+="- Vacuum Cleaner\n"
 j=q.ay.a.a
 if(j.length!==0){n=j.split("\n")
 for(j=n.length,m=0;m<j;++m)k+=" - "+J.aB4(n[m])+"\n"}k+="\n"}switch(a){case 1:k+="Tailwinds Numbers:\n"+q.ch.a.a+"\n"+q.cy.a.a+"\n\n"

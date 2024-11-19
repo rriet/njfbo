@@ -26,7 +26,7 @@ _flutter.loader.load({
   },
   serviceWorkerSettings: {
     serviceWorkerUrl: 'sw.js',
-    serviceWorkerVersion: "3541136642",
+    serviceWorkerVersion: "2067906204",
   },
   
 });
