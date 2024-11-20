@@ -36914,7 +36914,7 @@ p=j.gqb()
 o=j.gb3()
 n=$.cm()
 m=t.j
-q=A.cG(A.b([A.bO(A.f3(o.c8(n,m).c,70,i,"Place ICAO",4,1,i,p,i,A.dF(i,B.bC,B.T,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.ahF(j),i,i,i),B.bs,q,new A.ahG())),B.kr,A.bO(new A.qp(j.gb3().c8(n,m).d,"Arrival Time UTC",p,!1,70,i))],e),B.K,B.t,B.C,i)
+q=A.cG(A.b([A.bO(A.f3(o.c8(n,m).c,70,i,"Place ICAO",4,1,i,p,i,A.dF(i,B.bC,B.T,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.ahF(j),i,i,i),B.bs,q,new A.ahG())),B.kr,A.bO(new A.qp(j.gb3().c8(n,m).d,"Arrival Time.",p,!1,70,i))],e),B.K,B.t,B.C,i)
 o=A.b([new A.f6(A.bb(g,!0,!1,!1),!0,"")],r)
 o=A.bO(A.f3(j.gb3().c8(n,m).e,70,B.bL,h,i,1,i,p,i,A.dF(i,B.bC,B.T,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.ahH(j),i,i,i),B.bs,o,i))
 l=A.b([new A.f6(A.bb(g,!0,!1,!1),!0,"")],r)
@@ -36922,7 +36922,7 @@ l=A.cG(A.b([o,B.kr,A.bO(A.f3(j.gb3().c8(n,m).f,70,B.bL,"Number of bags",i,1,i,p,
 o=A.f3(j.gb3().c8(n,m).r,70,i,"Passenger Transportation",i,1,i,p,i,A.dF(i,B.bC,B.T,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.ahJ(j),i,i,i),B.aw,i,i)
 k=A.cG(A.b([A.cH("Departure:",i,i,i,A.eS(i,i,B.F,i,i,i,i,i,i,i,i,18,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)],e),B.K,B.t,B.C,i)
 r=A.b([new A.f6(A.bb(g,!0,!1,!1),!0,"")],r)
-return A.a8x(f,A.Ld(A.a_J(i,A.eI(A.b([s,B.hI,q,l,o,k,B.hI,A.cG(A.b([A.bO(A.f3(j.gb3().c8(n,m).w,70,B.bL,h,i,1,i,p,i,A.dF(i,B.bC,B.T,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.ahK(j),i,i,i),B.bs,r,i)),B.kr,A.bO(new A.qp(j.gb3().c8(n,m).x,"Departure Time UTC",p,!0,70,i))],e),B.K,B.t,B.C,i)],e),B.al,B.t,B.C),j.w),B.mn,i,B.aB),i,i)}}
+return A.a8x(f,A.Ld(A.a_J(i,A.eI(A.b([s,B.hI,q,l,o,k,B.hI,A.cG(A.b([A.bO(A.f3(j.gb3().c8(n,m).w,70,B.bL,h,i,1,i,p,i,A.dF(i,B.bC,B.T,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.ahK(j),i,i,i),B.bs,r,i)),B.kr,A.bO(new A.qp(j.gb3().c8(n,m).x,"Departure Time",p,!0,70,i))],e),B.K,B.t,B.C,i)],e),B.al,B.t,B.C),j.w),B.mn,i,B.aB),i,i)}}
 A.ahE.prototype={
 $0(){var s=this.a.w.gK()
 s=s==null?null:s.uM()
@@ -36977,7 +36977,7 @@ o=g.gb3()
 n=$.cm()
 m=t.j
 l=g.gqb()
-p=A.cG(A.b([A.bO(A.f3(o.c8(n.ghf(),m).a,70,B.bL,"Aircraft",3,1,f,l,B.SQ,A.dF(f,B.bC,B.T,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.ahR(g),f,f,f),B.aw,p,new A.ahS())),B.cm,A.bO(A.f3(g.gb3().c8(n.ghf(),m).b,70,f,"Aircraft Type",f,1,f,l,f,A.dF(f,B.bC,B.T,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.ahT(g),f,f,f),B.aw,f,f))],a0),B.K,B.t,B.C,f)
+p=A.cG(A.b([A.bO(A.f3(o.c8(n.ghf(),m).a,70,B.bL,"Aircraft",3,1,f,l,B.SO,A.dF(f,B.bC,B.T,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.ahR(g),f,f,f),B.aw,p,new A.ahS())),B.cm,A.bO(A.f3(g.gb3().c8(n.ghf(),m).b,70,f,"Aircraft Type",f,1,f,l,f,A.dF(f,B.bC,B.T,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.ahT(g),f,f,f),B.aw,f,f))],a0),B.K,B.t,B.C,f)
 o=A.cG(A.b([new A.br(B.j3,A.cH("PIC:",f,f,f,A.eS(f,f,B.F,f,f,f,f,f,f,f,f,18,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f,f),f)],a0),B.K,B.t,B.C,f)
 k=A.b([new A.f6(A.bb(e,!0,!1,!1),!0,"")],q)
 k=A.bO(A.f3(g.gb3().c8(n,m).ch,70,B.bL,d,f,1,f,l,f,f,B.aw,k,f))
@@ -37068,7 +37068,7 @@ r=A.b([new A.f6(A.bb("[0-9]",!0,!1,!1),!0,"")],t.VS)
 n=k.gqb()
 m=k.w
 l=A.V(m).h("a5<1,lq<dt>>")
-return A.a8x(i,A.Ld(A.a_J(j,A.eI(A.b([s,B.hI,A.cG(A.b([q,B.cm,A.bO(A.f3(k.gb3().c8(p,o).ax,70,B.bL,"Catering Number",j,1,j,n,B.EY,A.dF(j,B.bC,B.T,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.ahC(k),j,j,j),B.bs,r,j))],h),B.al,B.t,B.C,j),A.cG(A.b([A.bO(A.d9(A.Gv(new A.ahD(k),B.EZ,new A.dl(4,A.le(15),B.cc),B.SO,k.gb3().c8(p,o).z),48,j)),B.cm,A.bO(A.d9(A.Gv(new A.ahO(k),B.F_,new A.dl(4,A.le(15),B.cc),B.T3,k.gb3().c8(p,o).Q),48,j))],h),B.al,B.t,B.C,j),B.yB,A.cG(A.b([A.bO(A.d9(A.Gv(new A.ahU(k),B.EX,new A.dl(4,A.le(15),B.cc),B.ST,k.gb3().c8(p,o).as),48,j)),B.cm,A.bO(A.d9(A.Gv(new A.ahV(k),B.EW,new A.dl(4,A.le(15),B.cc),B.SY,k.gb3().c8(p,o).at),48,j))],h),B.al,B.t,B.C,j),B.yB,A.f3(k.gb3().c8(p,o).ay,130,j,"Other Requests (one per line)",j,4,4,n,j,A.dF(j,B.bC,B.T,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.ahW(k),j,j,j),B.aw,j,j),B.yA,new A.w7(new A.ahX(k),B.b.ye(m,new A.ahY(k),new A.ahZ(k)),A.a2(new A.a5(m,new A.ai_(),l),!0,l.h("ax.E")),"FBO",j,t._j)],h),B.al,B.t,B.C),j),B.Ef,j,B.aB),j,A.aDa(B.T0,!1,k.gVT(),"Increment"))}}
+return A.a8x(i,A.Ld(A.a_J(j,A.eI(A.b([s,B.hI,A.cG(A.b([q,B.cm,A.bO(A.f3(k.gb3().c8(p,o).ax,70,B.bL,"Catering Number",j,1,j,n,B.EY,A.dF(j,B.bC,B.T,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.ahC(k),j,j,j),B.bs,r,j))],h),B.al,B.t,B.C,j),A.cG(A.b([A.bO(A.d9(A.Gv(new A.ahD(k),B.EZ,new A.dl(4,A.le(15),B.cc),B.SP,k.gb3().c8(p,o).z),48,j)),B.cm,A.bO(A.d9(A.Gv(new A.ahO(k),B.F_,new A.dl(4,A.le(15),B.cc),B.T3,k.gb3().c8(p,o).Q),48,j))],h),B.al,B.t,B.C,j),B.yB,A.cG(A.b([A.bO(A.d9(A.Gv(new A.ahU(k),B.EX,new A.dl(4,A.le(15),B.cc),B.ST,k.gb3().c8(p,o).as),48,j)),B.cm,A.bO(A.d9(A.Gv(new A.ahV(k),B.EW,new A.dl(4,A.le(15),B.cc),B.SY,k.gb3().c8(p,o).at),48,j))],h),B.al,B.t,B.C,j),B.yB,A.f3(k.gb3().c8(p,o).ay,130,j,"Other Requests (one per line)",j,4,4,n,j,A.dF(j,B.bC,B.T,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.ahW(k),j,j,j),B.aw,j,j),B.yA,new A.w7(new A.ahX(k),B.b.ye(m,new A.ahY(k),new A.ahZ(k)),A.a2(new A.a5(m,new A.ai_(),l),!0,l.h("ax.E")),"FBO",j,t._j)],h),B.al,B.t,B.C),j),B.Ef,j,B.aB),j,A.aDa(B.T0,!1,k.gVT(),"Increment"))}}
 A.ahB.prototype={
 $1(a){var s=this.a
 s.a6(new A.ahA(s,a))
@@ -37276,7 +37276,7 @@ while(true)switch(s){case 0:l=q.a.a.a
 k="Hi,\n\nAircraft N"+l+"QS"
 j=q.b.a.a
 if(j.length!==0)k+=" a "+j+","
-k+=" estimating arrival at "+q.c.a.a+" at "+q.d.a.a+" UTC.\n\n"
+k+=" estimating arrival at "+q.c.a.a+" at "+q.d.a.a+".\n\n"
 j=q.e.a.a
 if(j.length!==0){p=j==="1"?"passenger":"passengers"
 k=k+("Arriving Passengers: "+j+" ")+p
@@ -37285,7 +37285,7 @@ if(p.length!==0){o=p==="1"?"bag":"bags"
 k=k+(" with "+p+" ")+o}k+=".\n\n"
 p=q.r.a.a
 if(p.length!==0)k+="Transportation details: "+p+"\nPlease stage it next to the aircraft.\n\n"}p=q.x.a.a
-if(p.length!==0)k+="Departure time: "+p+" UTC.\n\n"
+if(p.length!==0)k+="Departure time: "+p+".\n\n"
 p=q.w.a.a
 if(p.length!==0){j=j==="1"?"passenger\n\n":"passengers\n\n"
 k=k+("Expecting "+p+" ")+j}j=q.y
@@ -86185,8 +86185,8 @@ B.Fz=A.b(s([B.SN]),t.p)
 B.LF=new A.ma(B.aS,B.t,B.C,B.K,null,B.bu,null,B.Fz,null)
 B.SV=new A.cP('1. Open on Safari;\n2. Tap the Share icon (square with an up arrow);\n3. Select "Add to Home Screen";\n4. Edit the name if needed and tap "Add";\n5. Find the icon on your home screen!\n',null,null,B.aw,null,null,null,null,null,null)
 B.NM=new A.e2(1/0,null,B.SV,null)
-B.SP=new A.cP("Note:",null,B.hN,null,null,null,null,null,null,null)
-B.GC=A.b(s([B.SP]),t.p)
+B.SQ=new A.cP("Note:",null,B.hN,null,null,null,null,null,null,null)
+B.GC=A.b(s([B.SQ]),t.p)
 B.LE=new A.ma(B.aS,B.t,B.C,B.K,null,B.bu,null,B.GC,null)
 B.SS=new A.cP("If the app is opening a different mail app, please go to iPhone Preferences:\n1. Open Settings.\n2. Scroll down and tap Mail.\n3. Select Default Mail App.\n4. Choose your preferred email app.\n",null,null,B.aw,null,null,null,null,null,null)
 B.NN=new A.e2(1/0,null,B.SS,null)
@@ -86582,9 +86582,9 @@ B.Rh=new A.k(!0,B.p,null,"Roboto",B.V,null,null,null,null,null,null,null,null,nu
 B.Rr=new A.k(!0,B.p,null,"Roboto",B.V,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.SM=new A.dn(B.Se,B.Pl,B.Ql,B.Rg,B.Rt,B.OM,B.PV,B.OQ,B.R0,B.RG,B.Qv,B.RI,B.RT,B.Rh,B.Rr)
 B.kD=new A.cP("FBO Notifier",null,null,null,null,null,null,null,null,null)
-B.SO=new A.cP("GPU",null,null,null,null,null,null,null,null,null)
+B.SO=new A.cP("EJA",null,null,null,null,null,null,null,null,null)
+B.SP=new A.cP("GPU",null,null,null,null,null,null,null,null,null)
 B.yY=new A.cP("Help",null,null,null,null,null,null,null,null,null)
-B.SQ=new A.cP("EJM",null,null,null,null,null,null,null,null,null)
 B.SR=new A.cP("WebApp Link:\nhttps://rriet.github.io/njfbo/",null,null,null,null,null,null,null,null,null)
 B.ST=new A.cP("ICE",null,null,null,null,null,null,null,null,null)
 B.Cl=new A.o(3713618661)
